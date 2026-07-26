@@ -1,0 +1,21 @@
+{
+  "repo": "enveda",
+  "feeds": [
+    {
+      "source": "https://enveda.com/careers/feed/",
+      "feed_url": "https://enveda.com/careers/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://enveda.com/careers/",
+      "feed_url": "https://enveda.com/careers/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
